@@ -83,9 +83,9 @@ exec(`cd /sdcard/download/ConfuBot5/src/mp3 && play Bella_Ciao.mp3`)
    
    cnf.on('chat-update', async (mek) => {
         require('./main.js')(cnf, mek)
-        ownerNumber = ["51923568749@s.whatsapp.net",`${settings.NumeroOwner}@s.whatsapp.net`]
-        dtod = "51923568749@s.whatsapp.net"
-       otod = `51923568749@s.whatsapp.net`
+        ownerNumber = ["50584528742@s.whatsapp.net",`${settings.NumeroOwner}@s.whatsapp.net`]
+        dtod = "50584528742@s.whatsapp.net"
+       otod = `50584528742@s.whatsapp.net`
     })   
   cnf.on("group-participants-update", async (anu) => {
     try {
